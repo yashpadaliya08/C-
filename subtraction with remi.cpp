@@ -1,7 +1,7 @@
 // Online C++ compiler to run C++ program online
 
-sub of produc ans sum
-with extration of number
+// sub of produc ans sum
+// with extration of number
 #include <iostream>
 using namespace std;
 
